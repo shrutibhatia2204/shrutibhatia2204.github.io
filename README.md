@@ -6,7 +6,7 @@
 - Used isotope, typed, owlcarousel and more stuffs.
 - Responsive & mobile-friendly. (I think so 🤠)
 - And yes, It's not very pleasing to eyes, I know.
-- Take a look: https://subuthai.github.io/VerySimplePortfolio/
+- Take a look: https://shrutibhatia2204.github.io/VerySimplePortfolio/
 
 ### Contact me:
 
